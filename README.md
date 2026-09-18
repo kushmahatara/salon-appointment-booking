@@ -127,7 +127,6 @@ For the scope of this project and ease of assessment, user authentication/author
 - **Frontend Interaction**: React.js hooks used dynamically and effectively in `frontend/src/`.
 
 ## 👤 Author / Contact Information
-- **Name**: [Your Name]
-- **Student ID**: [Your ID]
-- **Email**: [Your Email]
-- **GitHub**: [github.com/your-username]
+- **Name**: [Kush Mahatara]
+- **Email**: [kushmahatara27@gmail.com]
+- **GitHub**: [https://github.com/kushmahatara]
